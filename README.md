@@ -5,11 +5,18 @@
 - Features
   
 - Data Source and Methodology
+  
 -Technologies Used
+
 -Installation and Setup
+
 -Usage
+
 -Project Structure
+
 -Results and Visualizations
+
 -Contributing
+
 -License
 
