@@ -125,5 +125,6 @@
     - requests: To make HTTP requests to the Nobel Prize API.
  
 - ### Results and Visualizations
-
+- #### What is the most commonly awarded gender and birth country?
+<img src="Graphs/Gender Distribution of Laureates.png"/>
   
