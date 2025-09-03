@@ -126,5 +126,7 @@
  
 - ### Results and Visualizations
 - #### What is the most commonly awarded gender and birth country?
-<img src="Graphs/Gender Distribution of Laureates.png"/>
-  
+      - Gender Distribution: Our analysis shows an overwhelming majority of Nobel Prize winners are male, with 911 awarded to men, 65 to women, and 28 to organizations.
+      - Birth Country: The USA, followed by the UK and Germany, has produced the most Nobel laureates, highlighting a concentration of awards in these nations.      
+- <img src="Graphs/Gender Distribution of Laureates.png"/>
+- <img src="Graphs/Most Common Birth Country of Laureates.png"/>
