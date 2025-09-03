@@ -150,3 +150,25 @@
 - #### Average Age of Female Laureates at the time of Award Ceremony by Category
       - The average age of female laureates also varies significantly by category. Women recognized in Economic Sciences are the oldest on average at 67.00 years, while those awarded the Nobel Peace Prize are the youngest at 51.47 years. This is notably younger than the average age for male peace laureates (63.32 years).
 - <img src="Graphs/Average Age of Female Nobel Laureates.png"/>
+
+- #### Which Organization was the most laureates associated with ?
+        - The University of California leads the list of organizations associated with Nobel laureates, followed by Harvard University, MIT, Stanford University, and the University of Chicago.
+- <img src="Graphs/Top-5 Organization with most Laureates.png"/>
+
+- #### Nobel Prize Received by Individual Vs Organization
+        - Our dataset shows that 976 prizes have been awarded to individuals, a stark contrast to the 28 awarded to organizations. This indicates that the Nobel Prize is overwhelmingly a recognition of personal achievement.
+- <img src="Graphs/Distribution of Nobel Prize Received by Individual Vs Organization.png"/>
+
+- #### How many Prizes were shared ?
+      - A total of 356 prizes were awarded to a single individual. However, 335 prizes were split between two recipients (1/2), 238 were shared among three (1/3), and 75 were shared among four (1/4). This shows that collaboration is often at the heart of Nobel-winning achievements.
+   
+- <img src="Graphs/Prize Shared Distribution.png"/>
+
+- #### Contribution of Men and Women to Nobel Prize from 1901-2024
+
+- <img src="Graphs/Contribution of Men and Women towards Nobel Prize from 1901-2024.png">
+
+- #### 
+
+
+
