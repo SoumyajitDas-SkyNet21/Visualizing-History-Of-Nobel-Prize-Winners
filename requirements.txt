@@ -1,0 +1,6 @@
+pandas==2.2.3
+numpy==1.26.4
+maplotlib==3.10.0
+requests==2.32.3
+plotly==5.24.1
+pycountry==24.6.1
