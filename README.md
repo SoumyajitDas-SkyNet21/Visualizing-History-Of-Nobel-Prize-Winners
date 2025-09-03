@@ -182,5 +182,11 @@
 - ##### Top-5 Country Of Origin Of Physiology or Medicine Laureates
   <img src="Graphs/Top-5 Country Of Origin Of Physiology or Medicine Laureates.png">
 
+- ### Youngest Nobel Prize Winner
+      - The youngest person to receive a Nobel Prize is Malala Yousafzai, who was awarded the Nobel Peace Prize at just 17 years old
+- ### Oldest Winner of Nobel Prize
+      - The oldest person to be awarded a Nobel Prize is John B. Goodenough, who was 97 years old when he received the Nobel Prize in Chemistry. His recognition highlights that groundbreaking work can be celebrated at any stage of a career.
 
+- ### Median Age of Nobel Laureates
+-  <img src="Graphs/Age Distribution of Nobel Laureates.png">
 
