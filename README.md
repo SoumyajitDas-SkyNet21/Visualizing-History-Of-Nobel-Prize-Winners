@@ -168,7 +168,10 @@
 
 - <img src="Graphs/Contribution of Men and Women towards Nobel Prize from 1901-2024.png">
 
-- #### 
+- #### Country Of Origin of Nobel Laureates Category Wise 
+- ##### Top-5 Country Of Origin Of Chemistry Laureates
+  - <img src="Graphs/Top-5 Country Of Origin Of Chemistry Laureates.png">
+
 
 
 
