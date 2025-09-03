@@ -130,3 +130,23 @@
       - Birth Country: The USA, followed by the UK and Germany, has produced the most Nobel laureates, highlighting a concentration of awards in these nations.      
 - <img src="Graphs/Gender Distribution of Laureates.png"/>
 - <img src="Graphs/Most Common Birth Country of Laureates.png"/>
+
+- #### Which decade had the highest ratio of US-born Nobel Prize winners to total winners in all categories ?
+      - Decade 2000 has the highest ratio of US-Born Winners to the total_winners
+- #### Who was the first woman to receive a Nobel Prize, and in what category?
+      - Marie Curie is the first women to receive a Nobel Prize in Physics
+- #### In which year does the highest number of prizes were distributed ?
+        - Year 2001 has the highest count of Nobel Prize Distribution
+- <img src="Graphs/Years with Highest No. Of Prize Distributions.png"/>
+
+- #### verage Age of Laureates at the time of Award Ceremony
+     - The average age of male laureates at the time of the ceremony is 61, while for women it is slightly younger at 59.
+- <img src="Graphs/Average Age Of Nobel Laureates - Male Vs Female.png"/>
+
+- #### Average Age of Male Laureates at the time of Award Ceremony by Category 
+      - Category-Specific Age Analysis: The data shows a significant spread in the average age of male laureates across different fields. The Economic Sciences laureates are the oldest on average at 66.62 years, while Physics laureates are the youngest at 57.87 years. The remaining categories fall between this range, with ages between 58 and 65.
+- <img src="Graphs/Average Age Of Male Nobel Laureates across categories.png"/>
+  
+- #### Average Age of Female Laureates at the time of Award Ceremony by Category
+      - The average age of female laureates also varies significantly by category. Women recognized in Economic Sciences are the oldest on average at 67.00 years, while those awarded the Nobel Peace Prize are the youngest at 51.47 years. This is notably younger than the average age for male peace laureates (63.32 years).
+- <img src="Graphs/Average Age of Female Nobel Laureates.png"/>
