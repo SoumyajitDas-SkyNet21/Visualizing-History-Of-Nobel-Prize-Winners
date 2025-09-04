@@ -33,9 +33,6 @@
 
 - Results and Visualizations
 
-- Contributing
-
-- License
 
 
 ### Features
